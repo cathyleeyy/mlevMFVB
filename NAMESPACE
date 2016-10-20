@@ -1,0 +1,2 @@
+useDynLib(mlevMFVB, .registration = TRUE, .fixes = "F_")
+export(twoLevelMFVB, twoLevGauss, twoLevBern)

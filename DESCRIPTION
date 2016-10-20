@@ -1,0 +1,8 @@
+Package: mlevMFVB
+Version: 0.1-2
+Title: Multilevel analysis via mean field variational Bayes.
+Author: Yuen Yi (Cathy) Lee <Yuen.Y.Lee@student.uts.edu.au>
+Maintainer: Yuen Yi (Cathy) Lee <Yuen.Y.Lee@student.uts.edu.au>
+Depends:
+Description: Multilevel analysis via mean field variational Bayes.
+License: GPL (version 2 or later)
